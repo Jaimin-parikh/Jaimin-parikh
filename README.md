@@ -4,7 +4,6 @@
 
 <a href="https://linkedin.com/in/jaimin-parikh-447727203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:placement_jaimin@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://soundaryasafar.com"><img src="https://img.shields.io/badge/Live_Project-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Laravel;Turning+manual+workflows+into+automated+ones;Currently+exploring+AI-driven+system+design;Open+to+new+opportunities+%F0%9F%9A%80" />
 
@@ -56,7 +55,7 @@ class JaiminParikh extends SoftwareEngineer
 <tr>
 <td width="50%" valign="top">
 
-### 🏕️ [Soundarya Safar](https://soundaryasafar.com)
+### 🏕️ Soundarya Safar
 **Trekking & Camp Booking Platform**
 
 Admin panel automating the full booking lifecycle — reservations, cancellations, dynamic invoicing, and camp finance tracking. Automated certificate pipeline generating 100+ participant certificates as a single multi-page PDF in moments.
