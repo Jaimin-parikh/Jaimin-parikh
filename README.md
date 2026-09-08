@@ -1,55 +1,142 @@
-# Hi, I'm Jaimin Parikh 👋
+<div align="center">
 
-**Software Engineer — Backend & Full-Stack Development | Laravel/PHP | Enterprise Systems & Workflow Automation**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jaimin%20Parikh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Laravel%20%2F%20PHP%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-I design and build enterprise-grade applications and workflow-automation platforms, primarily on the Laravel/PHP stack. Two years of experience owning projects end-to-end — from database design and API architecture through to deployment — across travel & booking, waste management, IT service management, financial approvals, and workforce attendance systems.
+<a href="https://linkedin.com/in/jaimin-parikh-447727203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:placement_jaimin@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://soundaryasafar.com"><img src="https://img.shields.io/badge/Live_Project-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-🟢 **Currently open to new opportunities**
-📍 Ahmedabad, Gujarat, India
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+with+Laravel;Turning+manual+workflows+into+automated+ones;Currently+exploring+AI-driven+system+design;Open+to+new+opportunities+%F0%9F%9A%80" />
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+```php
+<?php
 
-**Practices:** RESTful API design · System design & software architecture · SOLID principles · RBAC · Multi-level approval workflows · Audit-trail design · Reusable service-class architecture
+class JaiminParikh extends SoftwareEngineer
+{
+    protected string $role = 'Backend / Full-Stack Developer';
+    protected string $stack = 'Laravel · PHP · MySQL';
+    protected string $location = 'Ahmedabad, Gujarat, India';
+    protected int $yearsExperience = 2;
+    protected bool $openToWork = true;
 
----
+    public function currentFocus(): array
+    {
+        return [
+            'Enterprise workflow automation',
+            'RESTful API architecture',
+            'AI-driven system design',
+        ];
+    }
+}
+```
+
+<br>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,angular,jquery,html,css,docker,git,github,gitlab" />
+
+</div>
+
+<br>
+
+**Practices & Patterns:** `RESTful API Design` `System Architecture` `SOLID Principles` `RBAC` `Multi-level Approval Workflows` `Audit-trail Design` `Reusable Service-class Architecture`
+
+<br>
 
 ## 🚀 Featured Projects
 
-### [Soundarya Safar](https://soundaryasafar.com) — Trekking & Camp Booking Platform
-Admin panel automating the full booking lifecycle — reservations, cancellations, dynamic invoicing, and camp finance tracking. Built an automated certificate pipeline generating 100+ participant certificates as a single multi-page PDF within moments, plus integrated online payments and bulk notifications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Let's Recycle — Waste Management Admin Panel *(Laravel 7)*
-Unified previously disconnected collection, manufacturing, and sales workflows. Implemented OAuth 2.0-based Firebase Cloud Messaging as a reusable service class, Google Maps API integration for route visualization, and an inventory reconciliation engine preserving integrity across ~19,000 daily records. Also shipped a proof-of-concept OCR pipeline for automated vehicle weight capture.
+### 🏕️ [Soundarya Safar](https://soundaryasafar.com)
+**Trekking & Camp Booking Platform**
 
-### Helpdesk — Support Ticket Management System *(Laravel 11, Filament, MySQL)*
-Sole developer — architecture, database design, backend, auth, and deployment. Complete ticket lifecycle workflow with role-based authorization, configurable multi-level approval chains, and secure email-based approvals via Laravel Signed Routes (no login required).
+Admin panel automating the full booking lifecycle — reservations, cancellations, dynamic invoicing, and camp finance tracking. Automated certificate pipeline generating 100+ participant certificates as a single multi-page PDF in moments.
 
-### BAMS — Billing Approval Management System *(Laravel 8)*
-PO/invoice approval workflow with a configurable approval matrix supporting custom multi-level approval chains, user-specific approval limits, real-time FCM updates, and a vendor acknowledgment delegation workflow with full audit trail.
+`Laravel` `MySQL` `Payments` `PDF Generation`
 
-### NCA — Nepra Corp. Attendance *(Laravel 5.7)*
-Backend APIs for attendance regularization and approvals, GPS-based client visit punch-in/out, a Holiday Management module with web + mobile sync, and consolidated attendance trend reporting.
+</td>
+<td width="50%" valign="top">
 
----
+### ♻️ Let's Recycle
+**Waste Management Admin Panel**
 
-## 📫 Let's Connect
+Unified collection, manufacturing, and sales workflows. Built an inventory reconciliation engine preserving integrity across ~19,000 daily records, plus OAuth 2.0 FCM notifications and Google Maps route visualization.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimin-parikh-447727203)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:placement_jaimin@outlook.com)
+`Laravel 7` `Firebase FCM` `Google Maps API` `OCR`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 Helpdesk
+**Support Ticket Management System** — *Sole Developer*
+
+Full architecture, database design, backend, auth, and deployment. Configurable multi-level approval chains and secure email-based approvals via Laravel Signed Routes — no login required.
+
+`Laravel 11` `Filament` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 BAMS
+**Billing Approval Management System**
+
+Configurable approval matrix for PO/invoice workflows with user-specific approval limits, real-time FCM updates, and a full audit-trail vendor acknowledgment delegation flow.
+
+`Laravel 8` `Firebase FCM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📍 NCA — Nepra Corp. Attendance
+**Attendance & Workforce Management**
+
+Backend APIs for attendance regularization and approvals, GPS-based client visit punch-in/out, Holiday Management with web + mobile sync, and consolidated trend reporting.
+
+`Laravel 5.7` `GPS` `Push Notifications`
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+**More on the way** — currently expanding into AI-driven system design to build intelligent, production-ready applications.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaimin-parikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin-parikh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin-parikh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jaimin-parikh&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
