@@ -60,7 +60,7 @@ class JaiminParikh extends SoftwareEngineer
 
 Admin panel automating the full booking lifecycle — reservations, cancellations, dynamic invoicing, and camp finance tracking. Automated certificate pipeline generating 100+ participant certificates as a single multi-page PDF in moments.
 
-`Laravel` `MySQL` `Payments` `PDF Generation`
+`Laravel` `JavaScript` `jQuery` `Bootstrap` `MySQL` `Payments` `PDF Generation`
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,7 @@ Admin panel automating the full booking lifecycle — reservations, cancellation
 
 Unified collection, manufacturing, and sales workflows. Built an inventory reconciliation engine preserving integrity across ~19,000 daily records, plus OAuth 2.0 FCM notifications and Google Maps route visualization.
 
-`Laravel 7` `Firebase FCM` `Google Maps API` `OCR`
+`Laravel 7` `Angular` `Firebase FCM` `Google Maps API` `OCR`
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ Full architecture, database design, backend, auth, and deployment. Configurable 
 
 Configurable approval matrix for PO/invoice workflows with user-specific approval limits, real-time FCM updates, and a full audit-trail vendor acknowledgment delegation flow.
 
-`Laravel 8` `Firebase FCM`
+`Laravel 8` `JavaScript` `jQuery` `Bootstrap` `Firebase FCM`
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ Configurable approval matrix for PO/invoice workflows with user-specific approva
 
 Backend APIs for attendance regularization and approvals, GPS-based client visit punch-in/out, Holiday Management with web + mobile sync, and consolidated trend reporting.
 
-`Laravel 5.7` `GPS` `Push Notifications`
+`Laravel 5.7` `JavaScript` `jQuery` `Bootstrap` `GPS` `Push Notifications`
 
 </td>
 <td width="50%" valign="top">
