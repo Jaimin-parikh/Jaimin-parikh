@@ -28,6 +28,7 @@ class JaiminParikh extends SoftwareEngineer
             'Enterprise workflow automation',
             'RESTful API architecture',
             'AI-driven system design',
+            'Data analytics & reporting',
         ];
     }
 }
@@ -39,13 +40,13 @@ class JaiminParikh extends SoftwareEngineer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,angular,jquery,html,css,docker,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,angular,jquery,html,css,docker,git,github,gitlab,py,pandas,powerbi" />
 
 </div>
 
 <br>
 
-**Practices & Patterns:** `RESTful API Design` `System Architecture` `SOLID Principles` `RBAC` `Multi-level Approval Workflows` `Audit-trail Design` `Reusable Service-class Architecture`
+**Practices & Patterns:** `RESTful API Design` `System Architecture` `SOLID Principles` `RBAC` `Multi-level Approval Workflows` `Audit-trail Design` `Reusable Service-class Architecture` `Data Analytics` `SQL` `Data Visualization`
 
 <br>
 
@@ -126,7 +127,7 @@ Backend APIs for attendance regularization and approvals, GPS-based client visit
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaimin-parikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimin-parikh&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin-parikh&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaimin-parikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
