@@ -127,7 +127,7 @@ Backend APIs for attendance regularization and approvals, GPS-based client visit
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaimin-parikh&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimin-parikh&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Jaimin-parikh&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Jaimin-parikh&theme=tokyonight&hide_border=true&v=2" />
 
 </div>
 
